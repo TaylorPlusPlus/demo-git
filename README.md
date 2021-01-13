@@ -1,1 +1,3 @@
-This line is new
+This line is new 
+
+ADDED IN THE NEW BRANCH
