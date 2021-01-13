@@ -1,1 +1,1 @@
-This line is new
+Added in master
